@@ -16,9 +16,9 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Atelier 423 — Architecture d'Int\u00e9rieur & R\u00e9habilitation",
+  title: "Atelier Batir — Architecture d'Int\u00e9rieur & R\u00e9habilitation",
   description:
-    "S\u00e9verine Meiller, architecte d'int\u00e9rieur dans la Loire. R\u00e9habilitation, design de mobilier, gestion de chantier — particuliers & professionnels.",
+    "Claire Dumont, architecte d'int\u00e9rieur dans la Loire. R\u00e9habilitation, design de mobilier, gestion de chantier — particuliers & professionnels.",
 };
 
 export default function RootLayout({

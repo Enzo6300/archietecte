@@ -4,7 +4,7 @@ import { useState, useRef, useCallback } from "react";
 
 const reviews = [
   {
-    text: "Séverine a su comprendre exactement ce que nous voulions, tout en apportant des idées que nous n'aurions jamais imaginées. Notre maison est méconnaissable — dans le bon sens du terme.",
+    text: "Claire a su comprendre exactement ce que nous voulions, tout en apportant des idées que nous n'aurions jamais imaginées. Notre maison est méconnaissable — dans le bon sens du terme.",
     author: "Marie & Thomas L.",
     context: "Réhabilitation maison — Loire",
     stars: 5,
@@ -16,19 +16,19 @@ const reviews = [
     stars: 5,
   },
   {
-    text: "Notre boutique a une identité visuelle forte depuis la refonte par Atelier 423. Le résultat attire, engage, et notre clientèle a clairement changé de perception.",
+    text: "Notre boutique a une identité visuelle forte depuis la refonte par Atelier Batir. Le résultat attire, engage, et notre clientèle a clairement changé de perception.",
     author: "Claire D.",
     context: "Design boutique — Rhône-Alpes",
     stars: 5,
   },
   {
-    text: "Professionnalisme et créativité à chaque étape. Séverine a transformé notre appartement en un lieu qui nous ressemble vraiment. Nous recommandons sans hésitation.",
+    text: "Professionnalisme et créativité à chaque étape. Claire a transformé notre appartement en un lieu qui nous ressemble vraiment. Nous recommandons sans hésitation.",
     author: "Julien & Camille R.",
     context: "Rénovation complète — Lyon",
     stars: 5,
   },
   {
-    text: "Le suivi de chantier a été exemplaire. Chaque détail a été pensé, les délais respectés. Un vrai plaisir de travailler avec l'Atelier 423.",
+    text: "Le suivi de chantier a été exemplaire. Chaque détail a été pensé, les délais respectés. Un vrai plaisir de travailler avec l'Atelier Batir.",
     author: "François M.",
     context: "Maîtrise d'œuvre — Roanne",
     stars: 5,

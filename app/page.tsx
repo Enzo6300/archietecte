@@ -11,7 +11,7 @@ export default function Home() {
       <nav id="nav">
         <div className="nav-pill">
           <a href="#" className="nav-logo">
-            Atelier <span>423</span>
+            Atelier <span>Batir</span>
           </a>
           <ul className="nav-links">
             <li><a href="#services">Services</a></li>
@@ -66,13 +66,13 @@ export default function Home() {
         <img
           className="intro-bg"
           src="/section2-img.png"
-          alt="Int&eacute;rieur design&eacute; par Atelier 423"
+          alt="Int&eacute;rieur design&eacute; par Atelier Batir"
         />
         <div className="intro-text reveal">
           <span className="section-label">Expertises</span>
           <h2>Chaque espace<br />raconte une histoire</h2>
           <p>
-            S&eacute;verine Meiller, architecte d&apos;int&eacute;rieur dans la Loire. De la r&eacute;habilitation compl&egrave;te au design de mobilier sur-mesure, l&apos;atelier prend en charge votre projet avec pr&eacute;cision et sensibilit&eacute; — de la premi&egrave;re esquisse &agrave; la remise des cl&eacute;s.
+            Claire Dumont, architecte d&apos;int&eacute;rieur dans la Loire. De la r&eacute;habilitation compl&egrave;te au design de mobilier sur-mesure, l&apos;atelier prend en charge votre projet avec pr&eacute;cision et sensibilit&eacute; — de la premi&egrave;re esquisse &agrave; la remise des cl&eacute;s.
           </p>
           <a href="#services" className="intro-cta">
             En savoir plus sur l&apos;atelier
@@ -175,13 +175,13 @@ export default function Home() {
           <h2>Parlons de<br />votre projet</h2>
           <p className="contact-sub">Premi&egrave;re orientation gratuite &middot; R&eacute;ponse sous 48h</p>
           <div className="contact-links">
-            <a href="tel:0662383967" className="contact-link">
+            <a href="tel:0612345678" className="contact-link">
               <span className="contact-link-label">T&eacute;l&eacute;phone</span>
-              <span className="contact-link-val">06 62 38 39 67</span>
+              <span className="contact-link-val">06 12 34 56 78</span>
             </a>
-            <a href="mailto:contact@atelier423.fr" className="contact-link">
+            <a href="mailto:contact@atelierbatir.fr" className="contact-link">
               <span className="contact-link-label">Email</span>
-              <span className="contact-link-val">contact@atelier423.fr</span>
+              <span className="contact-link-val">contact@atelierbatir.fr</span>
             </a>
           </div>
           <div className="contact-address">
@@ -193,8 +193,8 @@ export default function Home() {
 
       {/* FOOTER */}
       <footer>
-        <a href="#" className="footer-logo">Atelier <span>423</span></a>
-        <p className="footer-copy">&copy; 2025 Atelier 423 &middot; S&eacute;verine Meiller &middot; Tous droits r&eacute;serv&eacute;s</p>
+        <a href="#" className="footer-logo">Atelier <span>Batir</span></a>
+        <p className="footer-copy">&copy; 2025 Atelier Batir &middot; Claire Dumont &middot; Tous droits r&eacute;serv&eacute;s</p>
         <ul className="footer-links">
           <li><a href="#">Mentions l&eacute;gales</a></li>
           <li><a href="#">Politique de confidentialit&eacute;</a></li>
